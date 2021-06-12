@@ -1,0 +1,31 @@
+.navigation {
+    height: 20
+px;
+    text-align: center;
+    background-color: rgb(58, 57, 57);
+    padding: 15px;
+    font-family: sans-serif;
+    display: inline-block;
+    font-size: 12pt;
+    color: white;
+    margin: 0%;
+    border-top: rgb(167, 34, 34) 1px;
+    border-bottom: rgb(0, 0, 0) 1px;
+}
+
+.left {
+    width: 29%;
+    border:rgb(58, 57, 57) 1px;
+    float: left;
+}
+
+p {
+    font-family: sans-serif;
+    color: black;
+
+}
+
+.right {
+    float: right;
+    width: 70%;
+}
